@@ -1,0 +1,268 @@
+{
+  "@@last_modified": "2022-05-22T18:11:05.132189",
+  "email": "البريد الاكترونى",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourEmail": "من فضلك ادخل البريد الالكترونى",
+  "@pleaseEnterYourEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterCorrectEmail": "من فضلك ادخل بريد الكترونى صحيح",
+  "@pleaseEnterCorrectEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailDoesNotFound": "البريد الالكترونى غير موجود",
+  "@emailDoesNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUserName": "من فضلك ادخل اسم المستخدم",
+  "@pleaseEnterYourUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "من فضلك ادخل كلمة المرور",
+  "@pleaseEnterYourPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseConfirmYourPassword": "من فضلك أكد كلمة المرور",
+  "@pleaseConfirmYourPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterCorrectUserName": "من فضلك ادخل اسم مستخدم صحيح",
+  "@pleaseEnterCorrectUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameDoesNotFound": "اسم المستخدم غير موجود",
+  "@userNameDoesNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "تآكيد كلمة المرور",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordIsNotCorrect": "كلمة المرور غير صحيحة",
+  "@passwordIsNotCorrect": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailOrPasswordIsNotCorrect": "البريد الالكترونى او كلمة المرور غير صحيحة",
+  "@emailOrPasswordIsNotCorrect": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordDoesNotMatch": "كلمة المرور غير متطابقة",
+  "@passwordDoesNotMatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appVersion": "نسخة 1.0.0",
+  "@appVersion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "الاسم الأول",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "الاسم الأخير",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourFirstName": "من فضلك ادخل الاسم الأول",
+  "@pleaseEnterYourFirstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourLastName": "من فضلك ادخل الاسم الأخير",
+  "@pleaseEnterYourLastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "إنشاء حساب",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "اسم المستخدم",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordWithQuestionMark": "نسيت كلمة المرور؟",
+  "@forgotPasswordWithQuestionMark": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "نسيت كلمة المرور",
+  "@forgotPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouDoNotHaveAccountSignUp": "إذا لم يكن لديك حساب قم بالتسجيل",
+  "@ifYouDoNotHaveAccountSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "أو",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createNewAccount": "تسجيل حساب جديد",
+  "@createNewAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "تغيير اللغة",
+  "@changeLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "تسجيل الخروج",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseWait": "برجاء الانتظار",
+  "@pleaseWait": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureOfExit": "هل انت متأكد من الخروج؟",
+  "@areYouSureOfExit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "نعم",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "لا",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouDoNotHaveAnAccountSignUp": "إذا لم يكن لديك حساب قم بالتسجيل",
+  "@ifYouDoNotHaveAnAccountSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "الرئيسية",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "حسابى",
+  "@myAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saved": "المحفوظات",
+  "@saved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadImage": "رفع صورة",
+  "@uploadImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publish": "نشر",
+  "@publish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ignore": "تجاهل",
+  "@ignore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeACommentAboutThePhoto": "اكتب تعليقاً حول الصورة",
+  "@writeACommentAboutThePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePasswordProvidedIsTooWeak": "كلمة المرور المقدمة ضعيفة للغاية",
+  "@thePasswordProvidedIsTooWeak": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theAccountAlreadyExistsForThatEmail": "الحساب موجود بالفعل لهذا البريد الإلكتروني",
+  "@theAccountAlreadyExistsForThatEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCredentials": "بيانات التسجيل غير صالحة",
+  "@invalidCredentials": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorConnectingWithServer": "خطأ فى الاتصال بالخادم",
+  "@errorConnectingWithServer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorConnectingToTheInternet": "خطأ فى الاتصال بالانترنت",
+  "@errorConnectingToTheInternet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreatedSuccessfullyAnEmailHasBeenSentToVerifyYourAccount": "تم إنشاء الحساب بنجاح ، وتم إرسال بريد إلكتروني للتحقق من حسابك",
+  "@accountCreatedSuccessfullyAnEmailHasBeenSentToVerifyYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNotVerifiedPleaseFollowInstructionsOnEmailToVerifyYourAccount": "لم يتم التحقق من الحساب ، يرجى اتباع التعليمات الموجودة على البريد الإلكتروني للتحقق من حسابك",
+  "@accountNotVerifiedPleaseFollowInstructionsOnEmailToVerifyYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "جارى التحميل",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pressRetryToTryAgain": "اضغط على إعادة المحاولة للمحاولة مرة أخرى",
+  "@pressRetryToTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "retry": "أعد المحاولة",
+  "@retry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youAreOfflinePleaseCheckYourInternetConnection": "أنت غير متصل بالإنترنت ، يرجى التحقق من اتصالك بالإنترنت",
+  "@youAreOfflinePleaseCheckYourInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noPostsFound": "لا يوجد منشورات",
+  "@noPostsFound": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

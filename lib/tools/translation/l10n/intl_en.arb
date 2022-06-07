@@ -1,0 +1,268 @@
+{
+  "@@last_modified": "2022-05-22T18:11:05.132189",
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourEmail": "Please enter your email",
+  "@pleaseEnterYourEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterCorrectEmail": "Please enter correct email",
+  "@pleaseEnterCorrectEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailDoesNotFound": "Email does n\\'t found",
+  "@emailDoesNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourUserName": "Please enter your username",
+  "@pleaseEnterYourUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourPassword": "Please enter your password",
+  "@pleaseEnterYourPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseConfirmYourPassword": "Please confirm your password",
+  "@pleaseConfirmYourPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterCorrectUserName": "Please enter correct username",
+  "@pleaseEnterCorrectUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameDoesNotFound": "Username does n\\'t found",
+  "@userNameDoesNotFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Password",
+  "@password": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmPassword": "Confirm password",
+  "@confirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordIsNotCorrect": "Password is n\\'t correct",
+  "@passwordIsNotCorrect": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailOrPasswordIsNotCorrect": "Email or password is n\\'t correct'",
+  "@emailOrPasswordIsNotCorrect": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordDoesNotMatch": "Password does n\\'t match",
+  "@passwordDoesNotMatch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appVersion": "Version 1.0.0",
+  "@appVersion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "firstName": "First name",
+  "@firstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Last name",
+  "@lastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourFirstName": "Please enter your first name",
+  "@pleaseEnterYourFirstName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseEnterYourLastName": "Please enter your last name",
+  "@pleaseEnterYourLastName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "signUp": "Sign up",
+  "@signUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "User name",
+  "@userName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordWithQuestionMark": "Forgot password?",
+  "@forgotPasswordWithQuestionMark": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPassword": "Forgot password",
+  "@forgotPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouDoNotHaveAccountSignUp": "If you do n\\'t have account sign up",
+  "@ifYouDoNotHaveAccountSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "or": "Or",
+  "@or": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "createNewAccount": "Create new account",
+  "@createNewAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "Change language",
+  "@changeLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "logout": "Logout",
+  "@logout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pleaseWait": "Please wait",
+  "@pleaseWait": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "areYouSureOfExit": "Are you sure of Exit?",
+  "@areYouSureOfExit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "Yes",
+  "@yes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no": "No",
+  "@no": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ifYouDoNotHaveAnAccountSignUp": "If you don\\'t have an account, sign up",
+  "@ifYouDoNotHaveAnAccountSignUp": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Home",
+  "@home": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "myAccount": "My account",
+  "@myAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "saved": "Saved",
+  "@saved": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "uploadImage": "Upload image",
+  "@uploadImage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "publish": "Publish",
+  "@publish": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ignore": "Ignore",
+  "@ignore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "writeACommentAboutThePhoto": "Write a comment about the photo",
+  "@writeACommentAboutThePhoto": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thePasswordProvidedIsTooWeak": "The password provided is too weak",
+  "@thePasswordProvidedIsTooWeak": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "theAccountAlreadyExistsForThatEmail": "The account already exists for that email",
+  "@theAccountAlreadyExistsForThatEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "invalidCredentials": "Invalid credentials",
+  "@invalidCredentials": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorConnectingWithServer": "Error connecting with server",
+  "@errorConnectingWithServer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "errorConnectingToTheInternet": "Error connecting to the internet",
+  "@errorConnectingToTheInternet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountCreatedSuccessfullyAnEmailHasBeenSentToVerifyYourAccount": "Account created successfully, an email has been sent to verify your account",
+  "@accountCreatedSuccessfullyAnEmailHasBeenSentToVerifyYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountNotVerifiedPleaseFollowInstructionsOnEmailToVerifyYourAccount": "Account not verified, please follow instructions on email to verify your account",
+  "@accountNotVerifiedPleaseFollowInstructionsOnEmailToVerifyYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Loading",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "pressRetryToTryAgain": "Press retry to try again",
+  "@pressRetryToTryAgain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "retry": "Retry",
+  "@retry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "youAreOfflinePleaseCheckYourInternetConnection": "You are offline, Please check your internet connection",
+  "@youAreOfflinePleaseCheckYourInternetConnection": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noPostsFound": "No posts found",
+  "@noPostsFound": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
